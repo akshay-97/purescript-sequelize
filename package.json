@@ -7,7 +7,7 @@
     "test": "test"
   },
   "dependencies": {
-    "sequelize": "^4.38.0",
+    "sequelize": "https://github.com/akshay-97/sequelize/commit/60574a1406602bff8eff56da9a5b02efccb6a726",
     "sequelize-cli": "^5.4.0"
   },
   "devDependencies": {
